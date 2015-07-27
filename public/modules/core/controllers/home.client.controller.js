@@ -8,7 +8,7 @@ angular.module('core').controller('HomeController', ['$scope', 'Authentication',
 
 		$scope.alerts = [
 			{
-             	icon:'glyphicon-user',
+             	icon:'glyphicon glyphicon-user',
 				colour:'btn-success',
 				total:'20,438',
 				description:'TOTAL CLIENTES'

@@ -3,7 +3,7 @@
 module.exports = {
 	db: 'mongodb://root:root@ds053718.mongolab.com:53718/mean-database',
 	app: {
-		title: 'apiprueba - Development Environment'
+		title: 'Api Clientes - Desarrollado por Jorge Vidal'
 	},
 	facebook: {
 		clientID: process.env.FACEBOOK_ID || 'APP_ID',
